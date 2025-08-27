@@ -1,4 +1,3 @@
-````markdown name=README.md
 # 👋 Hi, I'm Valtro1s!
 
 🎓 **Student at USTC**  
@@ -38,4 +37,3 @@ Feel free to check out my repositories or reach out on GitHub!
 ---
 
 ![Valtro1s's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valtro1s&show_icons=true&theme=radical)
-````
